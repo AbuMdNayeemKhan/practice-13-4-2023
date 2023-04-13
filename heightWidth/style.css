@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border: 1px solid black;
+    border-radius: 10px;
+}
